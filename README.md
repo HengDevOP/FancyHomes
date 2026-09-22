@@ -1,4 +1,4 @@
-# 🏠 Home
+# FancyHomes
 
 A simple, lightweight and configurable **Minecraft Home plugin** for Paper/Spigot servers.
 
