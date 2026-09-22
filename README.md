@@ -1,6 +1,6 @@
 # FancyHomes
 
-A simple, lightweight and configurable **Minecraft Home plugin** for Paper/Spigot servers.
+https://imgur.com/a/9UL8Ume
 
 Set personal homes, teleport to them, and manage your homes with simple commands.
 
